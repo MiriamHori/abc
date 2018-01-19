@@ -1,3 +1,5 @@
 testando o sourcetree.
 
 fazendo alterações para teste.
+
+agora subir com linha de comando.
